@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS user (id INT NOT NULL AUTO_INCREMENT, name VARCHAR(255), job_description VARCHAR(255), full_time_employee BOOLEAN, PRIMARY KEY (id));
